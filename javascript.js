@@ -1,5 +1,6 @@
 // javascript learning 
 
+// First you have to install node js in your system to run the JS files 
 // it is interpreted language  
 // language pf browser
 // language of front end
