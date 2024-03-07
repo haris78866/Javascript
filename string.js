@@ -14,5 +14,9 @@ console.log(hello);
 
 
 const my ='haris';
-
+// .touppercase 
 console.log(substring(5,3));
+
+const s=' technology, computers, it, code';
+
+console.log(s.split(' , '));
