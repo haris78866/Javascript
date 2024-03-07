@@ -1,0 +1,1 @@
+// array in Java script 
