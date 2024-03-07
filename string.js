@@ -10,3 +10,9 @@ console.log('MY name is ',name,'my age is ',age);
 const hello=('MY name is ',name,'my age is ',age);
 
 console.log(hello);
+
+
+
+const my ='haris';
+
+console.log(substring(5,3));
