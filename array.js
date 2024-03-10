@@ -33,3 +33,9 @@ console.log(fruits);
 fruits.pop();
 console.log(fruits);
 
+
+// this fun is used to check to it is right or not like here we are checking for the array 
+console.log(Array.isArray(fruits));
+
+// now here am checking for the false value 
+console.log(Array.isArray('hello'));
