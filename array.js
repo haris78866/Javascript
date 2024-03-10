@@ -19,6 +19,5 @@ console.log(fruits[2]);
 fruits[3]='grapes';
 
 
-fruits.push['mangoes'];
-
+fruits.push('mangoes');
 console.log(fruits);
