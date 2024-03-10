@@ -39,3 +39,7 @@ console.log(Array.isArray(fruits));
 
 // now here am checking for the false value 
 console.log(Array.isArray('hello'));
+
+
+// to find the idnexs 
+console.log(fruits.indexOf('banana'));
