@@ -19,5 +19,17 @@ console.log(fruits[2]);
 fruits[3]='grapes';
 
 
+// push is used for to add elements in the end of the array 
 fruits.push('mangoes');
 console.log(fruits);
+
+
+// we can also unshift to add eleemnt in the beigning 
+fruits.unshift('strawberry');
+console.log(fruits);
+
+// pop is used to off/remove  the last one 
+
+fruits.pop();
+console.log(fruits);
+
