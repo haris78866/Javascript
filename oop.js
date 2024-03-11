@@ -22,4 +22,9 @@ console.log(person3);
 // if we need only dob or name only 
 console.log(person1.firstname);
 console.log(person1.dob);
+/*
+this.getFullName = function() {
+    return ${this.firstname}  ${this.lastname};
+}
+*/
 
