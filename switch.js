@@ -1,49 +1,62 @@
-// switch conditions 
+// switch conditions
+/*
+const x = prompt('Enter any number:');
 
-
-
-const x=prompt('Enter any number :');
-
-switch(parseInt(x)) {
-    case 1 : 
+switch (parseInt(x)) {
+  case 1:
     console.log('Hello');
     break;
-    case 2 : 
+  case 2:
     console.log('Hello');
     break;
-    case 3 : 
+  case 3:
     console.log('Hello');
     break;
-    case 4 : 
+  case 4:
     console.log('Hello');
     break;
-    case 5 : 
+  case 5:
     console.log('Hello');
     break;
-    case 6 : 
+  case 6:
     console.log('Hello');
     break;
-    case 7 : 
+  case 7:
     console.log('Hello');
     break;
-    case 8 : 
+  case 8:
     console.log('Hello');
     break;
-    case 9 : 
+  case 9:
     console.log('Hello');
     break;
-    case 10 : 
+  case 10:
     console.log('Hello');
     break;
-    case 11 : 
+  case 11:
     console.log('Hello');
     break;
-    case 12 : 
+  case 12:
     console.log('Hello');
     break;
-default :
-     console.log('You entered invalid  number :');
-    
-
+  default:
+    console.log('You entered an invalid number.');
 }
+*/
 
+const x = prompt('Enter any number:');
+
+switch (parseInt(x)) {
+  case 1:
+    console.log('Hello');
+    break;
+  case 2:
+    console.log('Hello');
+    break;
+  // Add other cases...
+  case 12:
+    console.log('Hello');
+    break;
+  default:
+    console.log('You entered an invalid number.');
+}
