@@ -5,6 +5,6 @@
 
 
 
-const userInput =window.confirm ('Enter something :');
+const userInput =prompt ('Enter something :');
 console.log(userInput);
 
