@@ -14,3 +14,5 @@ while(j!=10){
     console.log(i);
     j++;
 }
+
+// 
