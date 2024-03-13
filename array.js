@@ -44,4 +44,3 @@ console.log(Array.isArray('hello'));
 // to find the idnexs 
 console.log(fruits.indexOf('banana'));
 
-// 
