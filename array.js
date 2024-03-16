@@ -45,3 +45,4 @@ console.log(Array.isArray('hello'));
 console.log(fruits.indexOf('banana'));
 //   //
 
+//
