@@ -1,5 +1,5 @@
 // javascript learning 
-// git remote add origin url
+
 // First you have to install node js in your system to run the JS files 
 // it is interpreted language  
 // language pf browser
