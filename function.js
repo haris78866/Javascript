@@ -26,3 +26,4 @@ console.log(addnum);
 // we can also do without return 
 const addnum = (num1 = 1, num2 = 1) => num1 + num2;
 console.log(addnum(4, 4));
+//
