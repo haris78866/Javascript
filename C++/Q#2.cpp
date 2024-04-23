@@ -8,7 +8,7 @@ void Add_new_num(int *arr,int size,int newNum);
 void Print_array(int *arr,int size);
 void Sum_of_array(int *arr,int size);
 void Delete_num(int *&arr,int &size,int numDelete);
-
+// am writing on the behla of my previous knowledge 
 
 int main(){
 int choice;
